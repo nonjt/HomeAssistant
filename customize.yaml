@@ -1,0 +1,8 @@
+    binary_sensor.1stfloor:
+      custom_ui_state_card: state-card-floorplan
+      config: !include 1stfloor.yaml
+
+    binary_sensor.2ndfloor:
+      custom_ui_state_card: state-card-floorplan
+      config: !include 2ndfloor.yaml
+

@@ -1,0 +1,9 @@
+  - platform: mqtt
+    state_topic: dummy/floorplan/sensor
+    name: 1stfloor
+
+
+  - platform: mqtt
+    state_topic: dummy/floorplan/sensor
+    name: 2ndfloor
+

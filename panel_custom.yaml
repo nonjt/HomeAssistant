@@ -1,0 +1,13 @@
+  - name: 1stfloor
+    sidebar_title: 1st Floor
+    sidebar_icon: mdi:home
+    url_path: 1stfloor
+    config: !include 1stfloor.yaml
+
+  - name: 2ndfloor
+    sidebar_title: 2nd Floor
+    sidebar_icon: mdi:home
+    url_path: 2ndfloor
+    config: !include 2ndfloor.yaml
+
+

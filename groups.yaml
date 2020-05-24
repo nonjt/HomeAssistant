@@ -1,0 +1,6 @@
+zones:
+  name: Zones
+  entities:
+    - binary_sensor.1stfloor
+    - binary_sensor.2ndfloor
+
