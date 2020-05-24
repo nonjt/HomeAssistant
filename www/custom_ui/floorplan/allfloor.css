@@ -1,0 +1,15 @@
+/* SVG shapes */
+
+svg, svg * {
+  vector-effect: non-scaling-stroke !important;
+  pointer-events: all !important;
+}
+
+
+.switch-off {
+  fill: #C3B7F4 !important;
+}
+
+.switch-on {
+  fill: #F8D2B9 !important;
+}
